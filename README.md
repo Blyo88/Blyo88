@@ -44,7 +44,7 @@ Currently focused on strengthening my skills in software development and explori
 
 ---
 
-## 🛠️ Tools I Use
+##  Tools I Use
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white"/>
@@ -55,7 +55,7 @@ Currently focused on strengthening my skills in software development and explori
 
 ---
 
-## 🚀 Currently Learning
+##  Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
@@ -64,7 +64,7 @@ Currently focused on strengthening my skills in software development and explori
 
 ---
 
-## 📌 What I’m Working On
+##  What I’m Working On
 <p align="center">
 🔹 Automation scripts using Python <br>
 🔹 AI-based experiments <br>
