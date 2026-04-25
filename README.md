@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Bryan</h1>
+<h1 align="center"> I'm Bryan Marriaga</h1>
 
 <p align="center">
   💻 Aspiring Systems Engineer <br>
