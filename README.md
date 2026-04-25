@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bryan 👋</h1>
+<h1 align="center"> I'm Bryan</h1>
 
 <p align="center">
   💻 Aspiring Systems Engineer <br>
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 <p align="center">
 Passionate about technology, problem-solving, and continuous learning. <br>
 I enjoy building practical solutions, automating processes, and turning ideas into real applications. <br>
