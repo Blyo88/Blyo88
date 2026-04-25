@@ -1,10 +1,6 @@
 <h1 align="center"> I'm Bryan Marriaga</h1>
 
 <p align="center">
-  💻 Aspiring Systems Engineer <br>
-  🚀 Focused on Automation, AI & Full Stack Development <br>
-  📍 Barranquilla, Colombia
-</p>
 
 ---
 
