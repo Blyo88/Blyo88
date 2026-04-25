@@ -73,7 +73,7 @@ Currently focused on strengthening my skills in software development and explori
 
 ---
 
-## 🎯 Goals
+##  Goals
 <p align="center">
 ✔️ Become a professional software engineer <br>
 ✔️ Build real-world systems <br>
@@ -82,7 +82,7 @@ Currently focused on strengthening my skills in software development and explori
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="your-linkedin-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
