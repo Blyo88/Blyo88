@@ -92,5 +92,5 @@ Currently focused on strengthening my skills in software development and explori
 ---
 
 <p align="center">
-⭐ <i>"Consistency builds real results."</i>
+ <i>"Consistency builds real results."</i>
 </p>
